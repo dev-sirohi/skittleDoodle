@@ -1,0 +1,31 @@
+.mypic img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  width: 25%;
+  height: 25%;
+  margin: auto;
+}
+
+.myintro {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  padding-left: 10px;
+  font-family: "Prata", serif;
+  margin-top: 3rem;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 20px;
+  /* text-align: center; */
+  margin-bottom: 20rem;
+}
+
+.myintro p {
+  padding-top: 1rem;
+}
+
+b {
+  font-size: 40px;
+  font-family: "Cutive Mono", monospace;
+}
